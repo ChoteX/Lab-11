@@ -43,3 +43,27 @@ trusting a single magic meter. Treat any result as probabilistic and
 explainable—report confidence ranges and cite the strongest evidence
 (e.g., unusually low perplexity plus repetitive n-grams), not a verdict of 
 certainty.
+
+__Summery__
+
+Sentence 1 (coffee & panic aroma): Fun sensory personification; 
+classic “AI can’t smell” jab. AI-likelihood: 50% — balanced; both 
+humans and models write this way.
+
+Sentence 2 (“snorblenoodle,” Scrabble, vowel subscriptions): 
+Neologism + corporate absurdity riff; very on-brand for improv-y 
+AI humor. AI-likelihood: 55%.
+
+Sentence 3 (blood-feud with semicolons): Tight metaphor with a clean 
+punch; feels more stand-up-crafted. AI-likelihood: 58%
+
+Sentence 4 (kaleidoscope on a ferret; soul doing jazz hands paying taxes): 
+Nested surrealism, steady cadence. Models love the escalating image stack. 
+AI-likelihood: 62%.
+
+Sentence 5 (raccoons in a trench coat peer review, kazoo bibliography): 
+Maximalist pile-on with callbacks and listy crescendo. AI-likelihood: 68%.
+
+Overall: The piece escalates smoothly and keeps a consistent comic 
+rhythm—traits large language models often nail—so the playful estimate 
+lands around 60% AI-generated. (Totally unscientific, but delightfully confident.)
